@@ -94,7 +94,7 @@ fig.update_layout(
 
 # Add quadrant annotations
 annotations = [
-    dict(x=mean_x * 0.35, y=mean_y * 0.035, text="Low Exposure, Low Automation", showarrow=False, font=dict(size=18, color="black")),
+    dict(x=mean_x * 0.35, y=mean_y * 0.035, text="Low Exposure, Low Automation", showarrow=False, font=dict(size=18), color = 'black),
     dict(x=mean_x * 0.35, y=mean_y * 1.85, text="Low Exposure, High Automation", showarrow=False, font=dict(size=18), color='black'),
     dict(x=mean_x * 1.65, y=mean_y * 1.85, text="High Exposure, High Automation", showarrow=False, font=dict(size=18), color='black'),
     dict(x=mean_x * 1.65, y=mean_y * 0.035, text="High Exposure, Low Automation", showarrow=False, font=dict(size=18), color= 'black')
