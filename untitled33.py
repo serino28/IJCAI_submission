@@ -23,7 +23,7 @@ st.set_page_config(page_title="IJCAI submission", layout="wide")
 def load_data():
     url = "https://raw.githubusercontent.com/serino28/IJCAI_submission/refs/heads/main/data_submission.csv"  # Sostituisci con il tuo link RAW
     df = pd.read_csv(url, sep=",", encoding="utf-8-sig", on_bad_lines="skip")
-    st.success("Dataset caricato con successo!")
+    #st.success("Dataset caricato con successo!")
     return df
 
 
@@ -64,8 +64,8 @@ fig.update_layout(
         showgrid=True,
         gridcolor='lightgray',
         gridwidth=0.3,
-        title_font=dict(size=18),
-        tickfont=dict(size=16)
+        itle_font=dict(size=18, color="black"),  # Cambiato colore titolo
+        tickfont=dict(size=16, color="black")
     ),
     yaxis=dict(
         title='Replacement Rate (TRAI)',
@@ -74,8 +74,8 @@ fig.update_layout(
         showgrid=True,
         gridcolor='lightgray',
         gridwidth=0.3,
-        title_font=dict(size=18),
-        tickfont=dict(size=16)
+        title_font=dict(size=18, color="black"),  # Cambiato colore titolo
+        tickfont=dict(size=16, color="black")  # Cambiato colore etichette
     ),
     showlegend=True,
     legend=dict(
@@ -84,7 +84,7 @@ fig.update_layout(
         x=0.5,
         xanchor='center',
         title_text=None,
-        font=dict(size=18)
+        font=dict(size=18, color="black")
     ),
     plot_bgcolor='#f9f9f9',
     paper_bgcolor='#f9f9f9',
@@ -94,10 +94,10 @@ fig.update_layout(
 
 # Add quadrant annotations
 annotations = [
-    dict(x=mean_x * 0.35, y=mean_y * 0.035, text="Low Exposure, Low Automation", showarrow=False, font=dict(size=18)),
-    dict(x=mean_x * 0.35, y=mean_y * 1.85, text="Low Exposure, High Automation", showarrow=False, font=dict(size=18)),
-    dict(x=mean_x * 1.65, y=mean_y * 1.85, text="High Exposure, High Automation", showarrow=False, font=dict(size=18)),
-    dict(x=mean_x * 1.65, y=mean_y * 0.035, text="High Exposure, Low Automation", showarrow=False, font=dict(size=18))
+    dict(x=mean_x * 0.35, y=mean_y * 0.035, text="Low Exposure, Low Automation", showarrow=False, font=dict(size=18, color="black")),
+    dict(x=mean_x * 0.35, y=mean_y * 1.85, text="Low Exposure, High Automation", showarrow=False, font=dict(size=18), color='black'),
+    dict(x=mean_x * 1.65, y=mean_y * 1.85, text="High Exposure, High Automation", showarrow=False, font=dict(size=18), color='black'),
+    dict(x=mean_x * 1.65, y=mean_y * 0.035, text="High Exposure, Low Automation", showarrow=False, font=dict(size=18), color= 'black')
 ]
 fig.update_layout(annotations=annotations)
 
