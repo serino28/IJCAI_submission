@@ -1,0 +1,799 @@
+Title,te_score_all_percentage,te_score_engagement_percentage,soc2d,Occupation group
+Chief Executives,71.97355782515186,66.53430818681477,11,"Management, business, admin, finance"
+General and Operations Managers,74.32988676448169,61.80211286830883,11,"Management, business, admin, finance"
+Legislators,43.58318534125576,36.05575678863272,11,"Management, business, admin, finance"
+Advertising and Promotions Managers,67.5754414293155,64.70621830281178,11,"Management, business, admin, finance"
+Marketing Managers,76.12244831434477,68.26471290622683,11,"Management, business, admin, finance"
+Sales Managers,62.23675973644575,53.99803579040555,11,"Management, business, admin, finance"
+Public Relations Managers,66.92706562563924,55.29112235971779,11,"Management, business, admin, finance"
+Fundraising Managers,69.2696389923352,59.0013769846639,11,"Management, business, admin, finance"
+Administrative Services Managers,65.272634311081,52.410167242586944,11,"Management, business, admin, finance"
+Facilities Managers,76.25098599085035,68.44287388149907,11,"Management, business, admin, finance"
+Computer and Information Systems Managers,71.43551276894445,62.62864764135349,11,"Management, business, admin, finance"
+Treasurers and Controllers,74.007711276153,68.34073343738706,11,"Management, business, admin, finance"
+Industrial Production Managers,73.75585220341446,75.15035484390272,11,"Management, business, admin, finance"
+Purchasing Managers,75.68775393928391,71.95616859568281,11,"Management, business, admin, finance"
+Supply Chain Managers,79.12927155916371,78.71529993340232,11,"Management, business, admin, finance"
+Compensation and Benefits Managers,71.89704367647181,69.88007434989218,11,"Management, business, admin, finance"
+Human Resources Managers,66.72367965883853,58.03281855522528,11,"Management, business, admin, finance"
+Training and Development Managers,76.90286869300779,72.21395188693678,11,"Management, business, admin, finance"
+"Farmers, Ranchers, and Other Agricultural Managers",70.74481806901372,66.87809547990868,11,"Management, business, admin, finance"
+Construction Managers,78.47897746134463,63.862992501886914,11,"Management, business, admin, finance"
+"Education and Childcare Administrators, Preschool and Daycare",60.09722088504276,56.73147192022701,11,"Management, business, admin, finance"
+"Education Administrators, Kindergarten through Secondary",60.07216554798849,45.50929372507512,11,"Management, business, admin, finance"
+"Education Administrators, Postsecondary",67.79794722860493,53.53317358010147,11,"Management, business, admin, finance"
+Architectural and Engineering Managers,79.6840034894348,71.10959854591877,11,"Management, business, admin, finance"
+Food Service Managers,54.32248233047178,59.611932041810576,11,"Management, business, admin, finance"
+Gambling Managers,53.19934919605024,55.441124459925405,11,"Management, business, admin, finance"
+"Entertainment and Recreation Managers, Except Gambling",54.69656427546296,53.16373612154703,11,"Management, business, admin, finance"
+Lodging Managers,59.74715559780952,64.6521273789269,11,"Management, business, admin, finance"
+Medical and Health Services Managers,78.35682249240669,69.37269220511881,11,"Management, business, admin, finance"
+Natural Sciences Managers,74.16181895399507,70.79891996714557,11,"Management, business, admin, finance"
+Postmasters and Mail Superintendents,57.93524027714764,47.79813407612635,11,"Management, business, admin, finance"
+"Property, Real Estate, and Community Association Managers",60.39479585591543,58.83302887410476,11,"Management, business, admin, finance"
+Social and Community Service Managers,59.04428794511488,51.28265541998079,11,"Management, business, admin, finance"
+Emergency Management Directors,73.94954006715508,62.79074980704148,11,"Management, business, admin, finance"
+Funeral Home Managers,46.59631512768093,40.48191521931056,11,"Management, business, admin, finance"
+Fitness and Wellness Coordinators,56.224378009799466,64.12071629024243,11,"Management, business, admin, finance"
+Compliance Managers,78.5350029664006,72.75537247881904,11,"Management, business, admin, finance"
+"Agents and Business Managers of Artists, Performers, and Athletes",67.59612266401349,54.63259445624485,13,"Management, business, admin, finance"
+"Buyers and Purchasing Agents, Farm Products",79.49184764960405,68.32668796415567,13,"Management, business, admin, finance"
+"Wholesale and Retail Buyers, Except Farm Products",62.2907216879896,70.28320927605549,13,"Management, business, admin, finance"
+"Purchasing Agents, Except Wholesale, Retail, and Farm Products",75.04946142081552,72.62529542388711,13,"Management, business, admin, finance"
+"Claims Adjusters, Examiners, and Investigators",68.96326794100278,60.24483555085368,13,"Management, business, admin, finance"
+"Insurance Appraisers, Auto Damage",77.19990723789498,70.92758103904107,13,"Management, business, admin, finance"
+Coroners,67.42979361361773,62.59524931526925,13,"Management, business, admin, finance"
+Cost Estimators,72.85770753859828,71.75447422407558,13,"Management, business, admin, finance"
+Human Resources Specialists,68.45652274260155,67.94603025787997,13,"Management, business, admin, finance"
+Farm Labor Contractors,37.63260535576525,33.728868052957054,13,"Management, business, admin, finance"
+Labor Relations Specialists,57.119159539386686,45.62779188786277,13,"Management, business, admin, finance"
+Logisticians,84.87813687666429,87.9533090040818,13,"Management, business, admin, finance"
+Project Management Specialists,79.11137038205784,66.66101589012227,13,"Management, business, admin, finance"
+Management Analysts,72.39575554211272,72.57437024014607,13,"Management, business, admin, finance"
+"Meeting, Convention, and Event Planners",64.03804283293488,66.13511625740625,13,"Management, business, admin, finance"
+Fundraisers,62.90583744843809,59.35666646694708,13,"Management, business, admin, finance"
+"Compensation, Benefits, and Job Analysis Specialists",77.39312069650441,68.06946902070415,13,"Management, business, admin, finance"
+Training and Development Specialists,67.92783195454261,66.38533896162654,13,"Management, business, admin, finance"
+Market Research Analysts and Marketing Specialists,80.48621168540684,79.31940496933083,13,"Management, business, admin, finance"
+Online Merchants,80.91591174956835,81.77942586188047,13,"Management, business, admin, finance"
+Accountants and Auditors,75.28421579478768,77.97234674341796,13,"Management, business, admin, finance"
+Appraisers of Personal and Business Property,70.86094722231755,66.258666588165,13,"Management, business, admin, finance"
+Appraisers and Assessors of Real Estate,74.42313348680229,71.59532442485653,13,"Management, business, admin, finance"
+Budget Analysts,83.09857359216144,78.25801458045571,13,"Management, business, admin, finance"
+Credit Analysts,80.7152514361016,74.87989185688325,13,"Management, business, admin, finance"
+Financial and Investment Analysts,70.92757829345977,70.53336318004945,13,"Management, business, admin, finance"
+Personal Financial Advisors,68.03136108165596,68.11648560780358,13,"Management, business, admin, finance"
+Insurance Underwriters,83.38531667523392,65.89730920483963,13,"Management, business, admin, finance"
+Financial Risk Specialists,81.32042699454118,79.32136670551394,13,"Management, business, admin, finance"
+Financial Examiners,65.82195192957975,55.89699294368402,13,"Management, business, admin, finance"
+Credit Counselors,61.26997593931854,63.24952784597956,13,"Management, business, admin, finance"
+Loan Officers,68.4598729568192,63.16969308605572,13,"Management, business, admin, finance"
+"Tax Examiners and Collectors, and Revenue Agents",67.44263410662931,68.56673939167301,13,"Management, business, admin, finance"
+Tax Preparers,63.92779369185328,55.18923796982648,13,"Management, business, admin, finance"
+Financial Quantitative Analysts,80.85622810219351,75.75710403988089,13,"Management, business, admin, finance"
+Computer Systems Analysts,80.91463433758669,76.3724718588057,15,ICT science
+Information Security Analysts,67.30551470244114,70.34574775205397,15,ICT science
+Computer and Information Research Scientists,78.3909230814231,64.45374285604566,15,ICT science
+Computer Network Support Specialists,62.613015233558514,65.6259592527402,15,ICT science
+Computer User Support Specialists,51.11341472420433,58.695493502745855,15,ICT science
+Telecommunications Engineering Specialists,75.21838229007014,71.51297241340863,15,ICT science
+Database Administrators,69.61357727201415,53.21325322498033,15,ICT science
+Database Architects,75.30654112616735,69.38977511536926,15,ICT science
+Network and Computer Systems Administrators,70.37611497101909,58.165933744475886,15,ICT science
+Computer Programmers,77.90723875997186,65.47087145607281,15,ICT science
+Software Developers,84.6106028490639,78.72577802192538,15,ICT science
+Software Quality Assurance Analysts and Testers,80.65101306423338,78.265967514726,15,ICT science
+Web Developers,69.70490461210676,64.09213072593633,15,ICT science
+Video Game Designers,70.27840383527368,63.112862704510405,15,ICT science
+Computer Systems Engineers/Architects,81.16647164862196,77.87268124798814,15,ICT science
+Actuaries,80.5784464885256,68.3092127066686,15,ICT science
+Mathematicians,84.20516055553199,78.00797968225864,15,ICT science
+Operations Research Analysts,84.8717193503714,79.8348339513861,15,ICT science
+Statisticians,86.4549746620605,80.86893482346188,15,ICT science
+Business Intelligence Analysts,89.09505445026385,82.97991915159541,15,ICT science
+Bioinformatics Technicians,85.87976279284662,89.33810136493669,15,ICT science
+"Architects, Except Landscape and Naval",77.13109673217076,60.6950121669017,17,ICT science
+Landscape Architects,72.54768269728764,67.92317835567873,17,ICT science
+Cartographers and Photogrammetrists,81.87629270955237,73.40171527531564,17,ICT science
+Surveyors,69.40955803964843,66.12042276042149,17,ICT science
+Aerospace Engineers,86.93473099607237,79.68422467755948,17,ICT science
+Agricultural Engineers,72.82547192755169,63.76545144587814,17,ICT science
+Bioengineers and Biomedical Engineers,84.00074852442233,77.93063707107358,17,ICT science
+Chemical Engineers,83.9005619949305,71.98971149521562,17,ICT science
+Civil Engineers,80.24340983356724,74.1046155767842,17,ICT science
+Computer Hardware Engineers,66.92326276799366,64.85809759162709,17,ICT science
+Electrical Engineers,78.78435073858235,74.3241180502167,17,ICT science
+"Electronics Engineers, Except Computer",78.77840326508,76.74396518898807,17,ICT science
+Environmental Engineers,78.36607992097566,73.53761245750174,17,ICT science
+Fire-Prevention and Protection Engineers,80.71252687085281,74.81643945355395,17,ICT science
+Industrial Engineers,79.5137943273469,79.43258692003555,17,ICT science
+Marine Engineers and Naval Architects,72.1354986280842,64.79385212622945,17,ICT science
+Materials Engineers,80.93071406012926,70.35948548373247,17,ICT science
+Mechanical Engineers,82.34744011375258,79.54960866715554,17,ICT science
+"Mining and Geological Engineers, Including Mining Safety Engineers",78.11125037574143,75.71981431721163,17,ICT science
+Nuclear Engineers,77.89580080873574,75.01049885950447,17,ICT science
+Petroleum Engineers,80.90384923744851,74.88837287937724,17,ICT science
+Mechatronics Engineers,83.94861618808048,80.11995696500996,17,ICT science
+Architectural and Civil Drafters,67.00806377327707,57.99272173683525,17,ICT science
+Electrical and Electronics Drafters,59.71765053648013,51.06051529462818,17,ICT science
+Mechanical Drafters,67.80917844366003,68.35774010954887,17,ICT science
+Aerospace Engineering and Operations Technologists and Technicians,67.89341582082888,69.49576465322444,17,ICT science
+Civil Engineering Technologists and Technicians,72.88812604742222,62.06036520975445,17,ICT science
+Electrical and Electronic Engineering Technologists and Technicians,64.11127531676256,63.44801463946749,17,ICT science
+Electro-Mechanical and Mechatronics Technologists and Technicians,70.89725444804502,70.263071263863,17,ICT science
+Environmental Engineering Technologists and Technicians,69.62225583927626,76.63153446237622,17,ICT science
+Industrial Engineering Technologists and Technicians,72.74192874871702,72.30894082644193,17,ICT science
+Mechanical Engineering Technologists and Technicians,73.0224675701886,68.47301302929425,17,ICT science
+Calibration Technologists and Technicians,56.52302596865376,64.50531699327288,17,ICT science
+Non-Destructive Testing Specialists,68.26846027915495,75.35606938008614,17,ICT science
+Surveying and Mapping Technicians,62.85693074056271,68.96067554162983,17,ICT science
+Animal Scientists,87.4400399220581,72.286346460223,19,ICT science
+Food Scientists and Technologists,81.96116335228622,78.39145540861536,19,ICT science
+Soil and Plant Scientists,84.62610588646994,71.28936423998346,19,ICT science
+Biochemists and Biophysicists,79.93517489235016,77.2451952919019,19,ICT science
+Microbiologists,68.33179009991184,60.17370401956023,19,ICT science
+Zoologists and Wildlife Biologists,75.19530835609817,68.72963508429574,19,ICT science
+Biologists,77.03903167033747,71.79371638560006,19,ICT science
+Park Naturalists,71.68949796009197,62.35604301485639,19,ICT science
+Foresters,75.80946714564557,67.96396666283,19,ICT science
+Epidemiologists,78.92695300390817,74.00517135775799,19,ICT science
+"Medical Scientists, Except Epidemiologists",81.00708240539744,73.74771161351433,19,ICT science
+Astronomers,73.08243411970588,62.59933688547259,19,ICT science
+Physicists,90.87335337980696,78.13713630173025,19,ICT science
+Atmospheric and Space Scientists,83.66807736660888,88.08661409125439,19,ICT science
+Chemists,83.59450104786961,75.64079818700782,19,ICT science
+Materials Scientists,76.95802155376283,66.39961500858941,19,ICT science
+"Environmental Scientists and Specialists, Including Health",85.51049497865228,83.95674662445231,19,ICT science
+"Geoscientists, Except Hydrologists and Geographers",86.1404179460449,78.66137171275538,19,ICT science
+Hydrologists,79.77579217763663,72.62396404653441,19,ICT science
+Remote Sensing Scientists and Technologists,81.43146173311064,92.672621480208,19,ICT science
+Economists,82.70500883627162,72.24682165993092,19,ICT science
+Survey Researchers,73.40655728047682,70.45534558286015,19,ICT science
+Industrial-Organizational Psychologists,73.99046947865607,59.63374264328903,19,ICT science
+Clinical and Counseling Psychologists,63.35818056484693,50.55341439402324,19,ICT science
+School Psychologists,59.810141039612255,47.94516620305036,19,ICT science
+Neuropsychologists,61.6156877978136,52.60065856652953,19,ICT science
+Sociologists,68.57310562741846,63.47671967443687,19,ICT science
+Urban and Regional Planners,80.32272253728719,79.2929187416605,19,ICT science
+Anthropologists and Archeologists,62.72908889451902,56.66156077943466,19,ICT science
+Geographers,74.779740342037,75.67332767780147,19,ICT science
+Historians,61.70108072142582,52.418213847435645,19,ICT science
+Political Scientists,76.49005788675031,59.64115772714135,19,ICT science
+Transportation Planners,81.10526685818888,85.50206107012166,19,ICT science
+Agricultural Technicians,77.75781420067244,91.40662665609857,19,ICT science
+Food Science Technicians,60.46756155120807,57.16285910149183,19,ICT science
+Biological Technicians,72.12569824501877,77.77033626266274,19,ICT science
+Chemical Technicians,64.86836714952541,67.08325496561756,19,ICT science
+"Environmental Science and Protection Technicians, Including Health",70.07284496240194,72.19651009983008,19,ICT science
+"Geological Technicians, Except Hydrologic Technicians",69.30958477484862,60.006849059858936,19,ICT science
+Hydrologic Technicians,79.91000965869442,71.36057247423193,19,ICT science
+Nuclear Monitoring Technicians,67.71569778302936,73.54935312315116,19,ICT science
+Social Science Research Assistants,68.83802607445669,72.6583344082487,19,ICT science
+Forest and Conservation Technicians,54.50683070872091,56.28799338972671,19,ICT science
+Forensic Science Technicians,72.45143721225712,61.01251777353868,19,ICT science
+Quality Control Analysts,83.86631777867255,81.95051343010006,19,ICT science
+Occupational Health and Safety Specialists,75.04582939254057,72.50745365244794,19,ICT science
+Occupational Health and Safety Technicians,73.16823833950981,65.88189888387515,19,ICT science
+Substance Abuse and Behavioral Disorder Counselors,45.322183722787294,44.72479263625153,21,"Edu, social, legal, art"
+"Educational, Guidance, and Career Counselors and Advisors",70.2281081866874,57.09729992366446,21,"Edu, social, legal, art"
+Marriage and Family Therapists,35.1278496312307,35.69769437830874,21,"Edu, social, legal, art"
+Mental Health Counselors,37.20393570825334,34.03121901514633,21,"Edu, social, legal, art"
+Rehabilitation Counselors,49.54156363311132,42.65697580147427,21,"Edu, social, legal, art"
+"Child, Family, and School Social Workers",51.51555739947868,53.66231230221692,21,"Edu, social, legal, art"
+Healthcare Social Workers,54.30758535225132,47.53976226401746,21,"Edu, social, legal, art"
+Mental Health and Substance Abuse Social Workers,61.59589389656625,51.988917170345104,21,"Edu, social, legal, art"
+Health Education Specialists,72.91741730001704,68.21434277296034,21,"Edu, social, legal, art"
+Probation Officers and Correctional Treatment Specialists,51.89952932454796,41.2980402391921,21,"Edu, social, legal, art"
+Social and Human Service Assistants,54.35504109962409,53.61351202276331,21,"Edu, social, legal, art"
+Community Health Workers,51.36576914771344,41.12527171409144,21,"Edu, social, legal, art"
+Clergy,18.15891560302897,17.524793298956517,21,"Edu, social, legal, art"
+"Directors, Religious Activities and Education",49.9649925184344,46.6549299910877,21,"Edu, social, legal, art"
+Lawyers,68.91083311698554,49.50799030631993,23,"Edu, social, legal, art"
+Judicial Law Clerks,65.82517048549266,61.199800822062365,23,"Edu, social, legal, art"
+"Administrative Law Judges, Adjudicators, and Hearing Officers",63.688541173816205,48.889627353217925,23,"Edu, social, legal, art"
+"Arbitrators, Mediators, and Conciliators",44.11133970332919,37.82120592603052,23,"Edu, social, legal, art"
+"Judges, Magistrate Judges, and Magistrates",42.64658774677015,28.31164979990051,23,"Edu, social, legal, art"
+Paralegals and Legal Assistants,69.95432963833508,65.30986126154457,23,"Edu, social, legal, art"
+"Title Examiners, Abstractors, and Searchers",63.05361083850227,68.60631532726846,23,"Edu, social, legal, art"
+"Business Teachers, Postsecondary",62.316925498933685,52.298188366110175,25,"Edu, social, legal, art"
+"Computer Science Teachers, Postsecondary",59.0938273745127,61.17362977380724,25,"Edu, social, legal, art"
+"Mathematical Science Teachers, Postsecondary",49.93002662969192,48.49825168735983,25,"Edu, social, legal, art"
+"Architecture Teachers, Postsecondary",46.7931878166944,43.15269351868684,25,"Edu, social, legal, art"
+"Engineering Teachers, Postsecondary",60.67290008683423,53.29586137781137,25,"Edu, social, legal, art"
+"Agricultural Sciences Teachers, Postsecondary",47.46536058693363,43.00501197341028,25,"Edu, social, legal, art"
+"Biological Science Teachers, Postsecondary",49.74155858250073,47.75791755463983,25,"Edu, social, legal, art"
+"Forestry and Conservation Science Teachers, Postsecondary",41.74089068283581,39.976205663823166,25,"Edu, social, legal, art"
+"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",53.55019851664892,41.29523244617172,25,"Edu, social, legal, art"
+"Chemistry Teachers, Postsecondary",49.53598556452189,40.18907914247576,25,"Edu, social, legal, art"
+"Environmental Science Teachers, Postsecondary",42.67676687685818,38.977166874656106,25,"Edu, social, legal, art"
+"Physics Teachers, Postsecondary",48.74253264581598,42.20085168478012,25,"Edu, social, legal, art"
+"Anthropology and Archeology Teachers, Postsecondary",43.82907409070352,39.77091694525674,25,"Edu, social, legal, art"
+"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",56.51042607847392,45.28100155786296,25,"Edu, social, legal, art"
+"Economics Teachers, Postsecondary",50.2295824596043,46.69948092683283,25,"Edu, social, legal, art"
+"Geography Teachers, Postsecondary",52.1266360919502,46.03023509283164,25,"Edu, social, legal, art"
+"Political Science Teachers, Postsecondary",51.0017423677292,44.05101621437343,25,"Edu, social, legal, art"
+"Psychology Teachers, Postsecondary",53.20578671590799,44.28302917220396,25,"Edu, social, legal, art"
+"Sociology Teachers, Postsecondary",49.69861458131998,40.30443666790487,25,"Edu, social, legal, art"
+"Health Specialties Teachers, Postsecondary",54.47429257599629,48.89405613535453,25,"Edu, social, legal, art"
+"Nursing Instructors and Teachers, Postsecondary",53.856728258401866,52.502221480546126,25,"Edu, social, legal, art"
+"Education Teachers, Postsecondary",53.73542719829846,55.63594201211994,25,"Edu, social, legal, art"
+"Library Science Teachers, Postsecondary",57.535841752655024,45.28914229815647,25,"Edu, social, legal, art"
+"Criminal Justice and Law Enforcement Teachers, Postsecondary",43.88214979688191,42.37696445871995,25,"Edu, social, legal, art"
+"Law Teachers, Postsecondary",51.23326458472391,42.48082025982619,25,"Edu, social, legal, art"
+"Social Work Teachers, Postsecondary",49.79207456833257,38.91969637208611,25,"Edu, social, legal, art"
+"Art, Drama, and Music Teachers, Postsecondary",36.54820771312896,37.45297967686589,25,"Edu, social, legal, art"
+"Communications Teachers, Postsecondary",57.820232123583246,47.10712877595006,25,"Edu, social, legal, art"
+"English Language and Literature Teachers, Postsecondary",50.179574881565,44.06571900868608,25,"Edu, social, legal, art"
+"Foreign Language and Literature Teachers, Postsecondary",50.67472408436014,43.95513938005554,25,"Edu, social, legal, art"
+"History Teachers, Postsecondary",46.19927557182225,40.12166793693429,25,"Edu, social, legal, art"
+"Philosophy and Religion Teachers, Postsecondary",38.70597199101646,37.25268548283769,25,"Edu, social, legal, art"
+"Family and Consumer Sciences Teachers, Postsecondary",52.73838205264809,44.79878263100232,25,"Edu, social, legal, art"
+"Recreation and Fitness Studies Teachers, Postsecondary",49.19383664089391,43.62719845260376,25,"Edu, social, legal, art"
+"Career/Technical Education Teachers, Postsecondary",66.5613743473765,61.55964692474052,25,"Edu, social, legal, art"
+"Preschool Teachers, Except Special Education",32.61757187449264,30.206041718228644,25,"Edu, social, legal, art"
+"Kindergarten Teachers, Except Special Education",31.75985392583201,31.191478516704297,25,"Edu, social, legal, art"
+"Elementary School Teachers, Except Special Education",40.28312640919519,40.67380648839898,25,"Edu, social, legal, art"
+"Middle School Teachers, Except Special and Career/Technical Education",44.03699302029433,37.42883265689069,25,"Edu, social, legal, art"
+"Career/Technical Education Teachers, Middle School",48.45454479331674,42.64158221569999,25,"Edu, social, legal, art"
+"Secondary School Teachers, Except Special and Career/Technical Education",46.03285729844312,40.921280902497344,25,"Edu, social, legal, art"
+"Career/Technical Education Teachers, Secondary School",46.9568205920556,46.58739048242147,25,"Edu, social, legal, art"
+"Special Education Teachers, Preschool",48.509091590635855,37.59055781593305,25,"Edu, social, legal, art"
+"Special Education Teachers, Kindergarten",47.78303249077161,42.29429633812406,25,"Edu, social, legal, art"
+"Special Education Teachers, Elementary School",51.18911688933132,48.50431029107416,25,"Edu, social, legal, art"
+"Special Education Teachers, Middle School",45.91209997489739,42.57174812651247,25,"Edu, social, legal, art"
+"Special Education Teachers, Secondary School",47.73449681993689,40.8010246150072,25,"Edu, social, legal, art"
+Adapted Physical Education Specialists,57.96369288810287,44.8133487545951,25,"Edu, social, legal, art"
+"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",53.74924445176001,51.49965040408348,25,"Edu, social, legal, art"
+Self-Enrichment Teachers,50.318634069577975,52.83388319861631,25,"Edu, social, legal, art"
+"Substitute Teachers, Short-Term",37.737668682958784,35.32707871587843,25,"Edu, social, legal, art"
+Tutors,66.47767339619315,68.4645050445494,25,"Edu, social, legal, art"
+Archivists,78.12087122475494,69.96461123339236,25,"Edu, social, legal, art"
+Curators,67.72403360346505,61.08655053599773,25,"Edu, social, legal, art"
+Museum Technicians and Conservators,63.19046910225127,56.610840485556814,25,"Edu, social, legal, art"
+Librarians and Media Collections Specialists,62.1964363883807,53.46182890756632,25,"Edu, social, legal, art"
+Library Technicians,49.07421364613087,53.69825344747689,25,"Edu, social, legal, art"
+Farm and Home Management Educators,71.44444050770895,54.73889034105374,25,"Edu, social, legal, art"
+Instructional Coordinators,75.13559641850908,69.08943888413202,25,"Edu, social, legal, art"
+"Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",52.99658942226099,49.41564599173083,25,"Edu, social, legal, art"
+"Teaching Assistants, Special Education",58.1787363273214,50.68341521086654,25,"Edu, social, legal, art"
+"Teaching Assistants, Postsecondary",56.717051138794986,56.31067416298663,25,"Edu, social, legal, art"
+Art Directors,54.428150458752434,47.78360235264674,27,"Edu, social, legal, art"
+Craft Artists,30.01982077531022,27.31281555194685,27,"Edu, social, legal, art"
+"Fine Artists, Including Painters, Sculptors, and Illustrators",28.79719605778956,22.612651852326486,27,"Edu, social, legal, art"
+Special Effects Artists and Animators,65.84587892231971,42.58705617687023,27,"Edu, social, legal, art"
+Commercial and Industrial Designers,69.83596555810594,64.08317925865151,27,"Edu, social, legal, art"
+Fashion Designers,51.79524370622487,39.6724043184843,27,"Edu, social, legal, art"
+Floral Designers,28.29858320789849,43.8816105327677,27,"Edu, social, legal, art"
+Graphic Designers,53.45122234589057,59.94445562217541,27,"Edu, social, legal, art"
+Interior Designers,66.19603343253634,56.95754597743971,27,"Edu, social, legal, art"
+Merchandise Displayers and Window Trimmers,33.89948200021839,36.14406466832184,27,"Edu, social, legal, art"
+Set and Exhibit Designers,55.63677271456549,48.58190114091366,27,"Edu, social, legal, art"
+Actors,22.47451162008409,19.3216506694054,27,"Edu, social, legal, art"
+Media Technical Directors/Managers,60.019400490124205,53.30367764136179,27,"Edu, social, legal, art"
+Athletes and Sports Competitors,37.599173939124256,23.02215451835618,27,"Edu, social, legal, art"
+Coaches and Scouts,62.21719977350849,49.513255383099526,27,"Edu, social, legal, art"
+"Umpires, Referees, and Other Sports Officials",42.935001040568224,39.77086673968618,27,"Edu, social, legal, art"
+Dancers,18.238302296540017,14.59488545524896,27,"Edu, social, legal, art"
+Choreographers,36.51768474812934,33.8917386427945,27,"Edu, social, legal, art"
+Music Directors and Composers,55.27795908660904,41.06518215425707,27,"Edu, social, legal, art"
+Musicians and Singers,31.017074765306614,22.62457474560241,27,"Edu, social, legal, art"
+"Disc Jockeys, Except Radio",31.852241060873627,44.888235011753714,27,"Edu, social, legal, art"
+Broadcast Announcers and Radio Disc Jockeys,32.71328202162284,41.29727227990904,27,"Edu, social, legal, art"
+"News Analysts, Reporters, and Journalists",68.14923661164683,57.62079259440841,27,"Edu, social, legal, art"
+Public Relations Specialists,58.21815901289257,51.90512291090952,27,"Edu, social, legal, art"
+Editors,70.67419154915203,61.51419135899248,27,"Edu, social, legal, art"
+Technical Writers,72.43660225914131,60.23176257811876,27,"Edu, social, legal, art"
+"Poets, Lyricists and Creative Writers",60.20088765492925,53.71199164402177,27,"Edu, social, legal, art"
+Interpreters and Translators,73.69483238745914,65.13353557879624,27,"Edu, social, legal, art"
+Court Reporters and Simultaneous Captioners,47.50752769530781,71.83553762587903,27,"Edu, social, legal, art"
+Audio and Video Technicians,51.14653059614799,46.57681849088681,27,"Edu, social, legal, art"
+Broadcast Technicians,49.06173766164899,52.805792484586725,27,"Edu, social, legal, art"
+Sound Engineering Technicians,56.99782417059798,57.372285247182354,27,"Edu, social, legal, art"
+Lighting Technicians,37.55830654847757,47.12009947807828,27,"Edu, social, legal, art"
+Photographers,43.80537450776266,48.31525238265779,27,"Edu, social, legal, art"
+"Camera Operators, Television, Video, and Film",37.94478242952879,42.14036884797635,27,"Edu, social, legal, art"
+Film and Video Editors,60.19642378554699,52.07940155449141,27,"Edu, social, legal, art"
+Chiropractors,39.21032340205854,39.11253410915292,29,Health & care
+"Dentists, General",45.00525498111581,41.44311853266169,29,Health & care
+Oral and Maxillofacial Surgeons,61.779031686563954,48.41312628300473,29,Health & care
+Orthodontists,53.88367485748318,51.51545353715097,29,Health & care
+Prosthodontists,61.01022117659286,57.3781218771935,29,Health & care
+Dietitians and Nutritionists,60.92454643892336,61.02582085513868,29,Health & care
+Optometrists,67.8970337039967,56.89069818996789,29,Health & care
+Pharmacists,72.07893016853177,76.9926873044882,29,Health & care
+Physician Assistants,68.45029236695675,69.81853440690823,29,Health & care
+Podiatrists,57.70112515320888,50.23997915753301,29,Health & care
+Occupational Therapists,59.6326427950157,48.26321802770041,29,Health & care
+Physical Therapists,59.5990040981511,50.62407641025865,29,Health & care
+Radiation Therapists,49.23540530242831,57.77483095519113,29,Health & care
+Recreational Therapists,48.841412385026736,45.0386890202047,29,Health & care
+Respiratory Therapists,58.58669753800624,52.63826370104718,29,Health & care
+Speech-Language Pathologists,53.59359645335872,48.63375605744291,29,Health & care
+Exercise Physiologists,61.13668061043662,62.61333075853423,29,Health & care
+Art Therapists,43.99808527102668,36.23885092607917,29,Health & care
+Veterinarians,58.14220223583738,54.4520867191986,29,Health & care
+Registered Nurses,64.6923748147948,57.26877960668747,29,Health & care
+Nurse Anesthetists,53.79804819957683,55.92933311763868,29,Health & care
+Nurse Midwives,62.34846636760353,52.74787036431486,29,Health & care
+Nurse Practitioners,74.90150142414585,68.43563777120848,29,Health & care
+Audiologists,66.91150818397502,59.78355699558174,29,Health & care
+Anesthesiologists,65.06137387195383,50.54497520950473,29,Health & care
+Cardiologists,74.3288770214502,70.73425612199324,29,Health & care
+Dermatologists,65.30907972362422,56.83106082891839,29,Health & care
+Emergency Medicine Physicians,69.7856068005802,59.97697488590838,29,Health & care
+Family Medicine Physicians,81.6705336290106,61.00422362733512,29,Health & care
+General Internal Medicine Physicians,73.56591170497609,68.52436403065228,29,Health & care
+Neurologists,69.43757079217642,66.22217085729687,29,Health & care
+Obstetricians and Gynecologists,69.42314822333748,63.27215754204442,29,Health & care
+"Pediatricians, General",72.72580115042724,65.76282056782766,29,Health & care
+"Physicians, Pathologists",79.37036076495635,76.86156894883347,29,Health & care
+Psychiatrists,61.63619711505579,41.50651050335976,29,Health & care
+Radiologists,79.5452116983507,71.06865776259025,29,Health & care
+Allergists and Immunologists,74.21214942130658,65.23910580716394,29,Health & care
+"Ophthalmologists, Except Pediatric",75.56046973688639,72.34360312425171,29,Health & care
+"Orthopedic Surgeons, Except Pediatric",71.11455375982827,65.7015958042589,29,Health & care
+Pediatric Surgeons,54.9318897581352,50.0841833693474,29,Health & care
+Acupuncturists,33.313844098970215,37.77831921197628,29,Health & care
+Dental Hygienists,40.37798240947224,37.01946015345133,29,Health & care
+Naturopathic Physicians,59.22088525519625,56.18435119472856,29,Health & care
+Medical and Clinical Laboratory Technologists,63.51071976792617,62.69782487432615,29,Health & care
+Medical and Clinical Laboratory Technicians,46.48238717066236,48.856835212911605,29,Health & care
+Cardiovascular Technologists and Technicians,53.150098381241975,64.81191683430426,29,Health & care
+Diagnostic Medical Sonographers,55.46458398553901,55.94900176004387,29,Health & care
+Nuclear Medicine Technologists,63.33341411440351,65.17479247127275,29,Health & care
+Radiologic Technologists and Technicians,50.15145223243552,52.350802874327385,29,Health & care
+Magnetic Resonance Imaging Technologists,50.41422643148924,39.414126409387016,29,Health & care
+Medical Dosimetrists,73.469529121215,72.93226157963703,29,Health & care
+Emergency Medical Technicians,43.96856660863275,32.29205156420546,29,Health & care
+Paramedics,48.58185021337494,38.3144403269658,29,Health & care
+Dietetic Technicians,59.9452801288033,58.71705633043626,29,Health & care
+Pharmacy Technicians,60.26989075172736,72.7087984445268,29,Health & care
+Psychiatric Technicians,35.09678479981979,39.70529082666863,29,Health & care
+Surgical Technologists,45.60901548480057,50.55432739162126,29,Health & care
+Veterinary Technologists and Technicians,48.71654862807488,53.76903493437558,29,Health & care
+Ophthalmic Medical Technicians,40.7974501207585,55.20375266757441,29,Health & care
+Licensed Practical and Licensed Vocational Nurses,46.358692561218426,52.91047574787447,29,Health & care
+Medical Records Specialists,85.43534964110758,93.72773059436604,29,Health & care
+"Opticians, Dispensing",50.24403903110459,64.64876546516476,29,Health & care
+Orthotists and Prosthetists,63.57957162088659,58.57794250523618,29,Health & care
+Hearing Aid Specialists,44.93859017933353,53.78457355846484,29,Health & care
+Neurodiagnostic Technologists,58.030832639058914,60.754018123171406,29,Health & care
+Health Information Technologists and Medical Registrars,82.75872324844084,87.24880584328638,29,Health & care
+Athletic Trainers,45.83451297424636,50.91165670764176,29,Health & care
+Genetic Counselors,73.03497184488472,62.06711460493041,29,Health & care
+Surgical Assistants,55.100907909003936,59.58143494689193,29,Health & care
+Midwives,51.26882892030618,51.40727168938122,29,Health & care
+Home Health Aides,43.1281807685376,44.70215457259156,31,Health & care
+Personal Care Aides,55.92762141498021,53.3744591282605,31,Health & care
+Nursing Assistants,43.83291938367046,52.62888571884577,31,Health & care
+Orderlies,22.07465555578033,48.13401957025333,31,Health & care
+Psychiatric Aides,27.96904138301456,34.17638377376523,31,Health & care
+Occupational Therapy Assistants,48.46654637266744,48.0809099793264,31,Health & care
+Occupational Therapy Aides,46.642519576053374,45.3381299187669,31,Health & care
+Physical Therapist Assistants,49.73952930367126,45.50565846987324,31,Health & care
+Physical Therapist Aides,43.93422011236945,46.96888587793933,31,Health & care
+Massage Therapists,18.608005344799672,22.240461222552963,31,Health & care
+Dental Assistants,46.907955231416416,52.693139551838506,31,Health & care
+Medical Assistants,55.78792270491254,67.2917345271131,31,Health & care
+Medical Equipment Preparers,61.05747073076461,60.07978938629185,31,Health & care
+Medical Transcriptionists,52.357683767803096,74.82171289792863,31,Health & care
+Pharmacy Aides,51.12183976762341,64.96275482239676,31,Health & care
+Veterinary Assistants and Laboratory Animal Caretakers,40.65465635244394,45.676823205914246,31,Health & care
+Phlebotomists,31.97885935515124,46.69100734220114,31,Health & care
+Endoscopy Technicians,56.84468652067894,56.547704598133606,31,Health & care
+First-Line Supervisors of Correctional Officers,35.61574266609339,31.673184231065854,33,Other services
+First-Line Supervisors of Police and Detectives,44.46720992490839,37.174889162052,33,Other services
+First-Line Supervisors of Firefighting and Prevention Workers,47.45124757832363,45.17010582008445,33,Other services
+First-Line Supervisors of Security Workers,51.90974263593285,54.076411683368086,33,Other services
+Firefighters,35.512028564502295,31.72129418392421,33,Other services
+Fire Inspectors and Investigators,53.92223781976473,54.68004662315556,33,Other services
+Forest Fire Inspectors and Prevention Specialists,50.80035820560759,59.16257428791577,33,Other services
+Bailiffs,34.1653033817718,37.51308690162323,33,Other services
+Correctional Officers and Jailers,37.107215818091646,45.4641198683619,33,Other services
+Police Identification and Records Officers,64.25061659085411,64.3212168849496,33,Other services
+Fish and Game Wardens,53.952004259551934,52.742656655271816,33,Other services
+Parking Enforcement Workers,43.68042098378484,44.01219150287085,33,Other services
+Customs and Border Protection Officers,61.18322834967808,55.50981532643324,33,Other services
+Transit and Railroad Police,67.84529307831362,58.072317787865714,33,Other services
+Animal Control Workers,44.63440509109409,51.73783306869655,33,Other services
+Private Detectives and Investigators,54.81268642421856,51.465902498470896,33,Other services
+Gambling Surveillance Officers and Gambling Investigators,71.77375601087891,64.02951508211642,33,Other services
+Security Guards,48.17820108419208,59.03106335259123,33,Other services
+Crossing Guards and Flaggers,34.59820894482426,26.33188423856284,33,Other services
+"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",44.35803363579775,37.7387851143563,33,Other services
+Transportation Security Screeners,55.40735505829246,59.81296165447424,33,Other services
+School Bus Monitors,43.04965801464617,44.31472097375545,33,Other services
+Retail Loss Prevention Specialists,75.12139473095829,69.13107138865499,33,Other services
+Chefs and Head Cooks,48.903276555068736,48.04583069636109,35,Other services
+First-Line Supervisors of Food Preparation and Serving Workers,44.20581813805459,55.50833057222463,35,Other services
+"Cooks, Fast Food",40.571725765556174,53.44451542358439,35,Other services
+"Cooks, Institution and Cafeteria",44.42219584170456,62.9260068682029,35,Other services
+"Cooks, Private Household",41.59701753403932,49.28761667326491,35,Other services
+"Cooks, Restaurant",40.00991148895746,50.85337594294683,35,Other services
+"Cooks, Short Order",40.71670005653789,38.18916813108329,35,Other services
+Food Preparation Workers,26.346734694816256,51.30407367422263,35,Other services
+Bartenders,20.2571659748271,32.87589028481672,35,Other services
+Baristas,32.56980058348511,59.76262545645452,35,Other services
+Waiters and Waitresses,22.003255407367565,34.58048097336431,35,Other services
+"Food Servers, Nonrestaurant",28.214600442657844,54.54788708299465,35,Other services
+Dining Room and Cafeteria Attendants and Bartender Helpers,23.51892322105594,51.13797784134291,35,Other services
+Dishwashers,20.8447189059626,60.20424388218713,35,Other services
+"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",36.00005216958458,43.08668156099162,35,Other services
+First-Line Supervisors of Housekeeping and Janitorial Workers,43.65848192263814,47.158053959691095,37,Other services
+"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",48.22862131852955,53.92704104604855,37,Other services
+"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",26.805216787716173,42.9307839670657,37,Other services
+Maids and Housekeeping Cleaners,25.401010241981268,44.80327138090376,37,Other services
+Pest Control Workers,41.43039252447917,52.23343108281263,37,Other services
+Landscaping and Groundskeeping Workers,27.80369160926574,43.347681727692766,37,Other services
+"Pesticide Handlers, Sprayers, and Applicators, Vegetation",39.63580169578663,36.1711403465799,37,Other services
+Tree Trimmers and Pruners,17.4816152314579,18.46563453451321,37,Other services
+First-Line Supervisors of Gambling Services Workers,37.30003756604231,41.517022991995965,39,Health & care
+"First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services",48.78119176762383,42.031965723803005,39,Health & care
+First-Line Supervisors of Personal Service Workers,44.34387329548317,45.0781199174852,39,Health & care
+Animal Trainers,40.49270902100063,37.0786116129024,39,Health & care
+Animal Caretakers,37.35379985395871,54.14231218934532,39,Health & care
+Gambling Dealers,29.86175029130357,43.434846965785184,39,Health & care
+Gambling and Sports Book Writers and Runners,35.41283872102001,45.61498388897248,39,Health & care
+Motion Picture Projectionists,27.542836248397418,53.01803467467613,39,Health & care
+"Ushers, Lobby Attendants, and Ticket Takers",33.415516952795045,32.23867746430029,39,Health & care
+Amusement and Recreation Attendants,32.557962216908905,47.94345131092252,39,Health & care
+Costume Attendants,35.012821620112085,39.619959951367335,39,Health & care
+"Locker Room, Coatroom, and Dressing Room Attendants",28.83523551509694,30.4941677687584,39,Health & care
+Embalmers,20.873701142371047,28.06577824512901,39,Health & care
+Crematory Operators,20.67776747085347,22.2914031414842,39,Health & care
+Funeral Attendants,21.472950989011537,29.62864604583963,39,Health & care
+"Morticians, Undertakers, and Funeral Arrangers",35.619313761599194,37.89732872779744,39,Health & care
+Barbers,19.36543666013345,23.069094867366985,39,Health & care
+"Hairdressers, Hairstylists, and Cosmetologists",18.761669083895136,21.55204243899345,39,Health & care
+"Makeup Artists, Theatrical and Performance",40.3757061353107,39.9219092689921,39,Health & care
+Manicurists and Pedicurists,9.998627242042344,10.449801981635147,39,Health & care
+Shampooers,17.942893703227387,20.493630913971725,39,Health & care
+Skincare Specialists,36.57309113272743,38.06495211164819,39,Health & care
+Baggage Porters and Bellhops,30.976167115508897,34.8094481265807,39,Health & care
+Concierges,57.07715074740376,71.35406992311124,39,Health & care
+Tour Guides and Escorts,48.11886072768624,45.90554212047618,39,Health & care
+Travel Guides,55.40901948856563,54.52322661808715,39,Health & care
+Childcare Workers,36.32572258745765,33.991967556293964,39,Health & care
+Exercise Trainers and Group Fitness Instructors,46.18685453564112,43.49567845238453,39,Health & care
+Recreation Workers,39.898844107833085,43.735439803271966,39,Health & care
+Residential Advisors,46.02130292209452,45.2733219650324,39,Health & care
+First-Line Supervisors of Retail Sales Workers,47.19183012199855,50.8086372011785,41,Sales
+First-Line Supervisors of Non-Retail Sales Workers,51.45436702617402,56.34916666934232,41,Sales
+Cashiers,31.94089388763496,43.09983170154797,41,Sales
+Gambling Change Persons and Booth Cashiers,30.53954900587941,43.2783078562354,41,Sales
+Counter and Rental Clerks,46.87941965396749,50.20972100394094,41,Sales
+Parts Salespersons,46.28116812546428,52.539792447383824,41,Sales
+Retail Salespersons,34.81151933639901,48.76176027312354,41,Sales
+Advertising Sales Agents,62.54526343469814,56.0688993304756,41,Sales
+Insurance Sales Agents,57.07444794385823,52.5898643688585,41,Sales
+"Securities, Commodities, and Financial Services Sales Agents",68.20253863953917,65.02903082420384,41,Sales
+Travel Agents,48.1773001496769,62.66798510048877,41,Sales
+"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",68.87276536946392,63.73683241119167,41,Sales
+"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",75.73677217588852,70.05107638269526,41,Sales
+"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",64.78505790900083,67.17236613443568,41,Sales
+Demonstrators and Product Promoters,48.64808195726225,51.4980889178657,41,Sales
+Models,55.40287085531873,44.46776986641832,41,Sales
+Real Estate Brokers,62.52965811728674,65.15451778836041,41,Sales
+Real Estate Sales Agents,59.78989993536281,52.36276621097959,41,Sales
+Sales Engineers,76.16371503224634,69.5052014410247,41,Sales
+Telemarketers,46.93428961258008,59.78594594398102,41,Sales
+"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",30.21633548430497,27.926666046961312,41,Sales
+First-Line Supervisors of Office and Administrative Support Workers,50.39758933732179,55.14503690415121,43,"Management, business, admin, finance"
+"Switchboard Operators, Including Answering Service",51.07752015477502,56.94026654492114,43,"Management, business, admin, finance"
+Telephone Operators,41.5783242309346,44.30757039888138,43,"Management, business, admin, finance"
+Bill and Account Collectors,63.26295951199762,62.243526752828025,43,"Management, business, admin, finance"
+Billing and Posting Clerks,42.48796125124509,61.92641349342767,43,"Management, business, admin, finance"
+"Bookkeeping, Accounting, and Auditing Clerks",52.6259187942699,81.52019218747691,43,"Management, business, admin, finance"
+Gambling Cage Workers,36.64233469634662,50.13786428107269,43,"Management, business, admin, finance"
+Payroll and Timekeeping Clerks,59.535784718038265,82.48720540102154,43,"Management, business, admin, finance"
+Procurement Clerks,68.84703541960843,75.44522145714696,43,"Management, business, admin, finance"
+Tellers,44.87241283970439,55.08996476352499,43,"Management, business, admin, finance"
+Brokerage Clerks,53.94668784144161,56.76808712175841,43,"Management, business, admin, finance"
+Correspondence Clerks,68.86869375478301,63.18453162135545,43,"Management, business, admin, finance"
+"Court, Municipal, and License Clerks",65.84050051735775,66.94694870100466,43,"Management, business, admin, finance"
+"Credit Authorizers, Checkers, and Clerks",52.81377479355677,67.82096167347808,43,"Management, business, admin, finance"
+Customer Service Representatives,64.65139752754664,63.59031117243479,43,"Management, business, admin, finance"
+"Eligibility Interviewers, Government Programs",68.34965101786668,57.31688886224624,43,"Management, business, admin, finance"
+File Clerks,44.59584879333416,65.40307627088981,43,"Management, business, admin, finance"
+"Hotel, Motel, and Resort Desk Clerks",46.25834771533534,58.17226522476354,43,"Management, business, admin, finance"
+"Interviewers, Except Eligibility and Loan",67.43940249369444,64.92088337654724,43,"Management, business, admin, finance"
+"Library Assistants, Clerical",51.77315965773016,56.71500321469976,43,"Management, business, admin, finance"
+Loan Interviewers and Clerks,57.67508645918833,63.02115851094599,43,"Management, business, admin, finance"
+New Accounts Clerks,47.53269292896356,57.16250928953026,43,"Management, business, admin, finance"
+Order Clerks,60.21642442297536,71.75223914645274,43,"Management, business, admin, finance"
+"Human Resources Assistants, Except Payroll and Timekeeping",70.14440070699305,73.95288132628386,43,"Management, business, admin, finance"
+Receptionists and Information Clerks,53.72837076199879,70.86855788271478,43,"Management, business, admin, finance"
+Reservation and Transportation Ticket Agents and Travel Clerks,52.6152309417432,54.81175390642332,43,"Management, business, admin, finance"
+Cargo and Freight Agents,72.47929219243645,72.58845011349062,43,"Management, business, admin, finance"
+Couriers and Messengers,45.74299902754825,45.27738303785128,43,"Management, business, admin, finance"
+Public Safety Telecommunicators,61.34846387448475,69.08876482786059,43,"Management, business, admin, finance"
+"Dispatchers, Except Police, Fire, and Ambulance",65.7101762050141,74.81183169785561,43,"Management, business, admin, finance"
+"Meter Readers, Utilities",59.539615865898085,71.58764483202596,43,"Management, business, admin, finance"
+Postal Service Clerks,50.95020820620584,52.46476998437173,43,"Management, business, admin, finance"
+Postal Service Mail Carriers,38.87104974347446,41.136006408864034,43,"Management, business, admin, finance"
+"Postal Service Mail Sorters, Processors, and Processing Machine Operators",36.73742572301892,64.44860608239085,43,"Management, business, admin, finance"
+"Production, Planning, and Expediting Clerks",67.87339505382499,69.01277776708073,43,"Management, business, admin, finance"
+"Shipping, Receiving, and Inventory Clerks",59.39057703278904,52.80320713013593,43,"Management, business, admin, finance"
+"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",70.66344235582423,84.74311647618019,43,"Management, business, admin, finance"
+Executive Secretaries and Executive Administrative Assistants,62.66476946030613,74.21045821685884,43,"Management, business, admin, finance"
+Legal Secretaries and Administrative Assistants,60.67591299465129,79.50281335645968,43,"Management, business, admin, finance"
+Medical Secretaries and Administrative Assistants,58.01789585051039,74.39369739262024,43,"Management, business, admin, finance"
+"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",56.05622641675527,70.14379677419718,43,"Management, business, admin, finance"
+Data Entry Keyers,50.38016147726194,81.72286835690849,43,"Management, business, admin, finance"
+Word Processors and Typists,53.52770174385073,85.26578249825883,43,"Management, business, admin, finance"
+Desktop Publishers,47.67143575621532,57.46485153547464,43,"Management, business, admin, finance"
+Insurance Claims and Policy Processing Clerks,68.33245709611693,79.27749075577306,43,"Management, business, admin, finance"
+"Mail Clerks and Mail Machine Operators, Except Postal Service",31.693491611725115,59.39125089963585,43,"Management, business, admin, finance"
+"Office Clerks, General",48.498665014558966,49.93939468764133,43,"Management, business, admin, finance"
+"Office Machine Operators, Except Computer",39.494322334349285,55.74269019831115,43,"Management, business, admin, finance"
+Proofreaders and Copy Markers,58.36974233315589,57.875785060265386,43,"Management, business, admin, finance"
+Statistical Assistants,86.21384410903165,86.26467438964536,43,"Management, business, admin, finance"
+"First-Line Supervisors of Farming, Fishing, and Forestry Workers",48.99323617211114,52.949702103941554,45,Farming fishing
+Agricultural Inspectors,68.893040748396,72.71719579106986,45,Farming fishing
+Animal Breeders,46.5141619776423,55.73238230013001,45,Farming fishing
+"Graders and Sorters, Agricultural Products",78.45725057680475,95.57322042750025,45,Farming fishing
+Agricultural Equipment Operators,40.9636409843385,58.74451575590264,45,Farming fishing
+"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",46.920884947411366,56.19846482899498,45,Farming fishing
+"Farmworkers, Farm, Ranch, and Aquacultural Animals",45.69481426417868,50.64440222847436,45,Farming fishing
+Fishing and Hunting Workers,34.04366416520125,31.994829008075914,45,Farming fishing
+Forest and Conservation Workers,33.77910931477786,39.63587325777022,45,Farming fishing
+Fallers,26.37221982551,30.59516464154092,45,Farming fishing
+Logging Equipment Operators,33.14773484177744,33.131590974625105,45,Farming fishing
+Log Graders and Scalers,55.01286026160936,62.50158245578893,45,Farming fishing
+First-Line Supervisors of Construction Trades and Extraction Workers,65.41312460310495,63.26321490722109,47,"Construction, mining"
+Boilermakers,31.61147610445964,45.94585254497432,47,"Construction, mining"
+Brickmasons and Blockmasons,24.864643013095588,39.5909987750148,47,"Construction, mining"
+Stonemasons,14.594886122277678,20.17281359914316,47,"Construction, mining"
+Carpenters,31.23181490078588,31.19850171818638,47,"Construction, mining"
+Carpet Installers,11.817287602631238,25.27241467762813,47,"Construction, mining"
+"Floor Layers, Except Carpet, Wood, and Hard Tiles",28.698180307933395,33.37149736382749,47,"Construction, mining"
+Floor Sanders and Finishers,23.95703635969973,27.6307655708566,47,"Construction, mining"
+Tile and Stone Setters,14.876939558296526,21.252088327932164,47,"Construction, mining"
+Cement Masons and Concrete Finishers,23.46563533827071,29.50314141676008,47,"Construction, mining"
+Terrazzo Workers and Finishers,23.27496147043231,21.204593858179592,47,"Construction, mining"
+Construction Laborers,32.86784234289282,38.99529108562933,47,"Construction, mining"
+"Paving, Surfacing, and Tamping Equipment Operators",31.056813811639,40.38220695617249,47,"Construction, mining"
+Pile Driver Operators,18.817337697017564,50.43215167078986,47,"Construction, mining"
+Operating Engineers and Other Construction Equipment Operators,46.35902986761904,44.70940834780512,47,"Construction, mining"
+Drywall and Ceiling Tile Installers,15.051477123163863,17.6169818833036,47,"Construction, mining"
+Tapers,27.85501005790548,44.30953306479727,47,"Construction, mining"
+Electricians,28.532514989487236,26.348072745871026,47,"Construction, mining"
+Glaziers,20.31418163738164,22.16829536353263,47,"Construction, mining"
+"Insulation Workers, Floor, Ceiling, and Wall",7.766677317724145,12.054260448893247,47,"Construction, mining"
+"Insulation Workers, Mechanical",31.82651872761429,24.08256310940697,47,"Construction, mining"
+"Painters, Construction and Maintenance",29.535194172107616,37.370943774566,47,"Construction, mining"
+Paperhangers,15.63913451047504,29.968268136042397,47,"Construction, mining"
+Pipelayers,38.58108048789294,44.39951353377237,47,"Construction, mining"
+Solar Thermal Installers and Technicians,31.63071997865696,35.62944641325789,47,"Construction, mining"
+Plasterers and Stucco Masons,24.089861091748546,31.09268325116424,47,"Construction, mining"
+Reinforcing Iron and Rebar Workers,24.283662116346143,21.388011542636328,47,"Construction, mining"
+Roofers,24.92875081474422,22.543092964044277,47,"Construction, mining"
+Sheet Metal Workers,37.510672356200615,50.61416964253396,47,"Construction, mining"
+Structural Iron and Steel Workers,29.825144930241365,47.21227318670075,47,"Construction, mining"
+Solar Photovoltaic Installers,54.86687541153227,50.42465105152103,47,"Construction, mining"
+"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",26.90715731049117,42.46513659742199,47,"Construction, mining"
+Helpers--Carpenters,29.8349659869249,41.208033737698926,47,"Construction, mining"
+Helpers--Electricians,22.90933221302388,33.73739370262488,47,"Construction, mining"
+"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",21.584777853579865,32.201183200417624,47,"Construction, mining"
+"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",24.247757482129067,38.24037409412637,47,"Construction, mining"
+Helpers--Roofers,33.755650198658095,37.53503417382156,47,"Construction, mining"
+Construction and Building Inspectors,76.4712905938545,75.78792468180983,47,"Construction, mining"
+Elevator and Escalator Installers and Repairers,15.562293936246002,20.95060573616708,47,"Construction, mining"
+Fence Erectors,16.847583654488815,33.317781122256264,47,"Construction, mining"
+Hazardous Materials Removal Workers,50.497322135300536,63.42938697818944,47,"Construction, mining"
+Highway Maintenance Workers,33.93078185802457,35.62329530113114,47,"Construction, mining"
+Rail-Track Laying and Maintenance Equipment Operators,34.78775773260386,55.39132570556558,47,"Construction, mining"
+Septic Tank Servicers and Sewer Pipe Cleaners,30.990079372406264,32.328811339185435,47,"Construction, mining"
+Segmental Pavers,27.28610037795718,34.69383399490204,47,"Construction, mining"
+Weatherization Installers and Technicians,35.73427213526736,37.976439690745664,47,"Construction, mining"
+"Derrick Operators, Oil and Gas",49.14852659852566,64.18210282731633,47,"Construction, mining"
+"Rotary Drill Operators, Oil and Gas",40.630041689880805,46.46194721570593,47,"Construction, mining"
+"Service Unit Operators, Oil and Gas",51.96942682735028,72.23542127648197,47,"Construction, mining"
+"Excavating and Loading Machine and Dragline Operators, Surface Mining",39.998006749186295,58.37942154406828,47,"Construction, mining"
+"Earth Drillers, Except Oil and Gas",53.14456193191004,59.95292920680709,47,"Construction, mining"
+"Explosives Workers, Ordnance Handling Experts, and Blasters",34.91519426692423,45.47344694769316,47,"Construction, mining"
+Continuous Mining Machine Operators,43.07757501567979,59.108261622760914,47,"Construction, mining"
+"Roof Bolters, Mining",33.02439168384124,57.79747761887937,47,"Construction, mining"
+"Loading and Moving Machine Operators, Underground Mining",36.04551454387568,46.29254897196252,47,"Construction, mining"
+"Rock Splitters, Quarry",22.79917447109599,41.11950365187342,47,"Construction, mining"
+"Roustabouts, Oil and Gas",43.10265102635216,44.12620091575706,47,"Construction, mining"
+Helpers--Extraction Workers,48.97107677371888,57.07653899050388,47,"Construction, mining"
+"First-Line Supervisors of Mechanics, Installers, and Repairers",51.72826227166007,45.58336925524242,49,Production and repair
+"Computer, Automated Teller, and Office Machine Repairers",42.10719455304546,58.06922038308181,49,Production and repair
+"Radio, Cellular, and Tower Equipment Installers and Repairers",19.438614739702977,16.672165110344547,49,Production and repair
+"Telecommunications Equipment Installers and Repairers, Except Line Installers",41.63444548748495,40.1385807060845,49,Production and repair
+Avionics Technicians,45.49585789207759,42.59026468472232,49,Production and repair
+"Electric Motor, Power Tool, and Related Repairers",44.28365975063382,48.51635869827648,49,Production and repair
+"Electrical and Electronics Installers and Repairers, Transportation Equipment",31.613256211786723,28.656614134704288,49,Production and repair
+"Electrical and Electronics Repairers, Commercial and Industrial Equipment",58.245277631437645,51.02119503554948,49,Production and repair
+"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",52.92625858954241,48.85698025122656,49,Production and repair
+"Electronic Equipment Installers and Repairers, Motor Vehicles",45.29756851618157,38.99761169866869,49,Production and repair
+Audiovisual Equipment Installers and Repairers,27.550381030919425,22.7182992485156,49,Production and repair
+Security and Fire Alarm Systems Installers,41.36850115230808,33.73334006766831,49,Production and repair
+Aircraft Mechanics and Service Technicians,34.41926681121607,41.97228524639545,49,Production and repair
+Automotive Body and Related Repairers,30.068913001705937,32.55453558443657,49,Production and repair
+Automotive Glass Installers and Repairers,24.21171139684077,23.09910292283903,49,Production and repair
+Automotive Service Technicians and Mechanics,52.586131600169054,43.92504299996861,49,Production and repair
+Bus and Truck Mechanics and Diesel Engine Specialists,30.60843567756505,34.3108714810444,49,Production and repair
+Farm Equipment Mechanics and Service Technicians,36.151477717499226,34.57661700389654,49,Production and repair
+"Mobile Heavy Equipment Mechanics, Except Engines",38.49620440473327,44.70662658730282,49,Production and repair
+Rail Car Repairers,44.611598826072274,50.46200864468384,49,Production and repair
+Motorboat Mechanics and Service Technicians,25.12126572267885,23.98768201890525,49,Production and repair
+Motorcycle Mechanics,22.68763268484044,32.64834004436955,49,Production and repair
+Outdoor Power Equipment and Other Small Engine Mechanics,31.04893825122736,21.662587667510813,49,Production and repair
+Bicycle Repairers,23.886075797692925,26.21915413799319,49,Production and repair
+Recreational Vehicle Service Technicians,29.67343103975846,29.25043632599528,49,Production and repair
+Tire Repairers and Changers,14.474757167913724,34.166552779262766,49,Production and repair
+Mechanical Door Repairers,17.215225869449267,36.19871064268128,49,Production and repair
+"Control and Valve Installers and Repairers, Except Mechanical Door",23.563095126343423,26.66369099494796,49,Production and repair
+"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",39.60513510354546,35.00061420409432,49,Production and repair
+Home Appliance Repairers,35.90259673385252,39.18539912722998,49,Production and repair
+Industrial Machinery Mechanics,51.845746363013454,58.03603543067247,49,Production and repair
+"Maintenance Workers, Machinery",53.782917355301926,57.66833018051904,49,Production and repair
+Millwrights,31.493497206378272,41.15622902674024,49,Production and repair
+"Refractory Materials Repairers, Except Brickmasons",23.706298014679355,29.702353401822805,49,Production and repair
+Electrical Power-Line Installers and Repairers,28.511865309258987,34.087622184475464,49,Production and repair
+Telecommunications Line Installers and Repairers,20.00109601250677,27.011729026349546,49,Production and repair
+Camera and Photographic Equipment Repairers,22.731663139056696,25.830775000911476,49,Production and repair
+Medical Equipment Repairers,45.22232688309993,50.06646033807228,49,Production and repair
+Musical Instrument Repairers and Tuners,19.450566267136164,21.13612461672515,49,Production and repair
+Watch and Clock Repairers,27.723678178700656,35.25549486958351,49,Production and repair
+"Maintenance and Repair Workers, General",48.75320676126751,52.62589918469687,49,Production and repair
+Wind Turbine Service Technicians,51.53718064390674,56.16149121547372,49,Production and repair
+"Coin, Vending, and Amusement Machine Servicers and Repairers",43.78047041454609,48.66233325415391,49,Production and repair
+Commercial Divers,34.5132229650631,38.34457110716588,49,Production and repair
+Locksmiths and Safe Repairers,17.544959197321926,16.91556171643385,49,Production and repair
+Manufactured Building and Mobile Home Installers,23.99806369886541,25.604691878804093,49,Production and repair
+Riggers,42.379933980066845,45.72297793071903,49,Production and repair
+Signal and Track Switch Repairers,35.076735742601656,38.945680544050816,49,Production and repair
+"Helpers--Installation, Maintenance, and Repair Workers",47.94024828388251,52.36287708161458,49,Production and repair
+Geothermal Technicians,59.64817249050824,61.45985312618593,49,Production and repair
+First-Line Supervisors of Production and Operating Workers,53.63774408074599,56.05813064234793,51,Production and repair
+"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",45.29503763009184,50.05965097513148,51,Production and repair
+"Coil Winders, Tapers, and Finishers",26.648876359119107,34.936351073773714,51,Production and repair
+Electrical and Electronic Equipment Assemblers,45.50803791739506,73.32734223065611,51,Production and repair
+Electromechanical Equipment Assemblers,41.51108818444161,59.01135208774853,51,Production and repair
+Engine and Other Machine Assemblers,50.69105161829866,63.11099440647251,51,Production and repair
+Structural Metal Fabricators and Fitters,38.534223188422544,49.61228958996615,51,Production and repair
+Fiberglass Laminators and Fabricators,33.9010096717876,33.258919739435115,51,Production and repair
+Timing Device Assemblers and Adjusters,22.600368254747423,28.86157744679485,51,Production and repair
+Team Assemblers,66.56327305598639,68.92545075548317,51,Production and repair
+Bakers,44.88535670080647,67.78275895321082,51,Production and repair
+Butchers and Meat Cutters,17.9577700035794,29.21744754720425,51,Production and repair
+"Meat, Poultry, and Fish Cutters and Trimmers",34.63411140287101,40.9776506014461,51,Production and repair
+Slaughterers and Meat Packers,26.810402601604245,63.99121845883754,51,Production and repair
+"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",44.676813210331936,62.609192517893945,51,Production and repair
+Food Batchmakers,54.75168860798514,67.59846267126923,51,Production and repair
+Food Cooking Machine Operators and Tenders,40.5867054339987,75.59243348736548,51,Production and repair
+"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",40.55057665423799,58.66213771193668,51,Production and repair
+"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",47.94112854477959,60.24119192805672,51,Production and repair
+"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",47.89079807746809,59.58723740922311,51,Production and repair
+"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",41.61083512752749,63.26737918037944,51,Production and repair
+"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",40.12908728071841,53.875603928191005,51,Production and repair
+"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",48.27994194333961,60.74218308964397,51,Production and repair
+"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",40.81110232530185,44.67535223577324,51,Production and repair
+"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",46.04589038252859,44.61492983160071,51,Production and repair
+Machinists,67.14070570701845,67.16543683596521,51,Production and repair
+Metal-Refining Furnace Operators and Tenders,34.394203857565664,54.23504919982084,51,Production and repair
+"Pourers and Casters, Metal",41.73408253396933,61.78973161676833,51,Production and repair
+"Model Makers, Metal and Plastic",55.76446304475019,67.73450489177029,51,Production and repair
+"Patternmakers, Metal and Plastic",56.495274628586245,55.72413939524624,51,Production and repair
+Foundry Mold and Coremakers,34.96506338612652,53.74503155811615,51,Production and repair
+"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",52.28091541522677,56.30373678746256,51,Production and repair
+"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",47.20414779008917,54.592301464236506,51,Production and repair
+Tool and Die Makers,52.54851091963888,47.6594123657297,51,Production and repair
+"Welders, Cutters, Solderers, and Brazers",25.39090410698496,47.20897914343215,51,Production and repair
+"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",43.476086206721774,52.07212267649257,51,Production and repair
+"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",42.23388683711416,48.96481205460155,51,Production and repair
+"Layout Workers, Metal and Plastic",44.54148153006698,41.33619926201832,51,Production and repair
+"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",44.16968935829389,59.86296547302218,51,Production and repair
+"Tool Grinders, Filers, and Sharpeners",34.46655716858144,40.213090421463896,51,Production and repair
+Prepress Technicians and Workers,54.630882779642974,60.64779057372246,51,Production and repair
+Printing Press Operators,35.650400354713376,66.00706137128866,51,Production and repair
+Print Binding and Finishing Workers,23.83779745899932,45.536573944546575,51,Production and repair
+Laundry and Dry-Cleaning Workers,23.52986935779828,40.80933642613373,51,Production and repair
+"Pressers, Textile, Garment, and Related Materials",27.015778676168544,43.58182842227223,51,Production and repair
+Sewing Machine Operators,16.610816322964624,38.58704541832929,51,Production and repair
+Shoe and Leather Workers and Repairers,27.521551126433835,31.89451455915994,51,Production and repair
+Shoe Machine Operators and Tenders,21.372918967612893,43.83069371662175,51,Production and repair
+"Sewers, Hand",22.17598457469357,28.71050144710855,51,Production and repair
+"Tailors, Dressmakers, and Custom Sewers",33.74148115366219,31.36147271916495,51,Production and repair
+Textile Bleaching and Dyeing Machine Operators and Tenders,40.61820441138976,54.86389070631229,51,Production and repair
+"Textile Cutting Machine Setters, Operators, and Tenders",46.87320940789821,47.9835051291711,51,Production and repair
+"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",50.911067606713246,50.870996703615255,51,Production and repair
+"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",40.66957400003216,52.308171836789896,51,Production and repair
+"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",37.630920999932535,46.21301312113009,51,Production and repair
+Fabric and Apparel Patternmakers,47.32806926528965,49.71687058264719,51,Production and repair
+Upholsterers,20.27790052569808,21.71467129830596,51,Production and repair
+Cabinetmakers and Bench Carpenters,32.22252079426981,39.28551647279486,51,Production and repair
+Furniture Finishers,28.76078872822706,32.96750801323184,51,Production and repair
+"Model Makers, Wood",50.541332187919984,53.05540923546231,51,Production and repair
+"Patternmakers, Wood",53.3536560614825,51.25822529637157,51,Production and repair
+"Sawing Machine Setters, Operators, and Tenders, Wood",30.584680602280883,42.4852569446915,51,Production and repair
+"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",43.231854610977656,49.40621710665926,51,Production and repair
+Nuclear Power Reactor Operators,56.02163877361768,62.766575359949016,51,Production and repair
+Power Distributors and Dispatchers,64.07900597507592,73.04355059438495,51,Production and repair
+Power Plant Operators,50.44858027232739,58.336739371227445,51,Production and repair
+Stationary Engineers and Boiler Operators,43.71106146198208,48.31887043780307,51,Production and repair
+Water and Wastewater Treatment Plant and System Operators,50.25304892029892,75.28285478248073,51,Production and repair
+Chemical Plant and System Operators,48.57173972603798,75.42243928490483,51,Production and repair
+Gas Plant Operators,53.187079539717445,65.68824205222195,51,Production and repair
+"Petroleum Pump System Operators, Refinery Operators, and Gaugers",49.356946591334165,68.13616247253312,51,Production and repair
+Biofuels Processing Technicians,60.20057809470031,68.00113644996956,51,Production and repair
+Chemical Equipment Operators and Tenders,52.15575610714245,58.36660494514969,51,Production and repair
+"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",61.227320824748645,67.33935729999044,51,Production and repair
+"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",37.43000389836725,53.983333344742704,51,Production and repair
+"Grinding and Polishing Workers, Hand",30.63854952254329,46.003748865161306,51,Production and repair
+"Mixing and Blending Machine Setters, Operators, and Tenders",44.22826642305769,64.50250083265742,51,Production and repair
+"Cutters and Trimmers, Hand",47.775026904182965,60.082844488233874,51,Production and repair
+"Cutting and Slicing Machine Setters, Operators, and Tenders",37.74579123870247,49.79386407917027,51,Production and repair
+"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",37.80276555402081,59.3587997388296,51,Production and repair
+"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",36.70987975902597,48.65822894876038,51,Production and repair
+"Inspectors, Testers, Sorters, Samplers, and Weighers",70.3713350128969,74.76215235605076,51,Production and repair
+Gem and Diamond Workers,41.297819140103066,47.02459732607405,51,Production and repair
+Dental Laboratory Technicians,33.88516932798093,39.85416521911246,51,Production and repair
+Medical Appliance Technicians,52.12954535965545,61.1866599788339,51,Production and repair
+Ophthalmic Laboratory Technicians,31.851862407236812,40.75651644697032,51,Production and repair
+Packaging and Filling Machine Operators and Tenders,34.37945159892226,65.94412125072566,51,Production and repair
+"Painting, Coating, and Decorating Workers",30.782685987949293,45.45122633405509,51,Production and repair
+"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",41.56509855577524,56.726454501018864,51,Production and repair
+Semiconductor Processing Technicians,40.28991388444357,74.60569134405519,51,Production and repair
+Photographic Process Workers and Processing Machine Operators,47.191561909005806,59.00197410554712,51,Production and repair
+Computer Numerically Controlled Tool Operators,49.591110135062685,65.7734102242853,51,Production and repair
+Computer Numerically Controlled Tool Programmers,70.64778154606951,71.37045367430495,51,Production and repair
+Adhesive Bonding Machine Operators and Tenders,34.84616832033769,54.89868839645937,51,Production and repair
+"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",34.66795520378888,40.50545791297344,51,Production and repair
+Cooling and Freezing Equipment Operators and Tenders,33.77345562426959,42.2377220979619,51,Production and repair
+Etchers and Engravers,34.28391554541818,43.57870452010387,51,Production and repair
+"Stone Cutters and Carvers, Manufacturing",33.76686835669125,39.01394524429185,51,Production and repair
+"Paper Goods Machine Setters, Operators, and Tenders",37.09585403281694,57.55192252190565,51,Production and repair
+Tire Builders,26.42828667780218,57.0858058696371,51,Production and repair
+Helpers--Production Workers,52.25345309778074,76.99937580216654,51,Production and repair
+Aircraft Cargo Handling Supervisors,75.06034880095905,63.6597194440053,53,Transport
+"First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",52.06589972217991,52.93487170380372,53,Transport
+First-Line Supervisors of Material-Moving Machine and Vehicle Operators,54.553915069463145,53.28408584718238,53,Transport
+First-Line Supervisors of Passenger Attendants,39.36079252311469,53.209003648838646,53,Transport
+"Airline Pilots, Copilots, and Flight Engineers",51.62922421605807,46.27390411062788,53,Transport
+Commercial Pilots,48.58137526420119,51.584878543911685,53,Transport
+Air Traffic Controllers,74.95355977069659,66.07418250020021,53,Transport
+Airfield Operations Specialists,66.57881635254348,63.93687185843591,53,Transport
+Flight Attendants,35.32071925492855,35.50420768775576,53,Transport
+"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",16.940157940178512,28.196137938828564,53,Transport
+Driver/Sales Workers,40.252417381632654,54.21153219002623,53,Transport
+Heavy and Tractor-Trailer Truck Drivers,38.10957075133337,44.30848339647939,53,Transport
+Light Truck Drivers,43.956413785444354,47.38549356193647,53,Transport
+"Bus Drivers, School",41.69059503424953,40.709030344812845,53,Transport
+"Bus Drivers, Transit and Intercity",39.09946928562616,40.46786974607917,53,Transport
+Shuttle Drivers and Chauffeurs,44.55842083988853,53.78792698841528,53,Transport
+Taxi Drivers,41.99155394997992,44.69052454514393,53,Transport
+Locomotive Engineers,45.31928125561432,52.79894895396596,53,Transport
+"Rail Yard Engineers, Dinkey Operators, and Hostlers",38.47611400027894,46.67762755764611,53,Transport
+"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",36.9358793997746,45.62929433604851,53,Transport
+Railroad Conductors and Yardmasters,54.54805530582576,49.095964810369445,53,Transport
+Subway and Streetcar Operators,46.5829110065548,52.18551823330537,53,Transport
+Sailors and Marine Oilers,32.619580479704005,34.23567097420337,53,Transport
+"Captains, Mates, and Pilots of Water Vessels",48.14366852536586,53.69528388095136,53,Transport
+Motorboat Operators,35.33252933129052,34.036100112284394,53,Transport
+Ship Engineers,55.426364926174365,58.66358832751948,53,Transport
+Bridge and Lock Tenders,47.93750413310079,56.13840083681229,53,Transport
+Parking Attendants,34.26656929174558,40.82165817477579,53,Transport
+Automotive and Watercraft Service Attendants,30.5577722561936,39.65347867784764,53,Transport
+Aircraft Service Attendants,18.34286945689911,44.683100628830125,53,Transport
+Traffic Technicians,68.36359918157444,69.69916601423081,53,Transport
+Aviation Inspectors,66.16009180342371,63.95271729434525,53,Transport
+Passenger Attendants,44.7055343063012,41.49103138216896,53,Transport
+Conveyor Operators and Tenders,40.78696859638087,55.38966174536204,53,Transport
+Crane and Tower Operators,41.43069501215455,54.83739564618048,53,Transport
+Dredge Operators,35.35806451390178,42.7745777018541,53,Transport
+Hoist and Winch Operators,18.101229680013866,24.166722521395123,53,Transport
+Industrial Truck and Tractor Operators,43.43953198566224,55.25599185428668,53,Transport
+Cleaners of Vehicles and Equipment,23.39265964254156,46.7714394554414,53,Transport
+"Laborers and Freight, Stock, and Material Movers, Hand",37.73187789371994,56.615576311946725,53,Transport
+Machine Feeders and Offbearers,48.6556610144669,67.69731743970773,53,Transport
+"Packers and Packagers, Hand",45.64847978962924,65.25534452004268,53,Transport
+Stockers and Order Fillers,49.87701376043171,63.93585659023119,53,Transport
+Gas Compressor and Gas Pumping Station Operators,42.55200594395425,62.9127976896145,53,Transport
+"Pump Operators, Except Wellhead Pumpers",42.695404687619565,54.42435441715888,53,Transport
+Wellhead Pumpers,38.754858569316326,49.82972852147521,53,Transport
+Refuse and Recyclable Material Collectors,35.86034638696334,49.77106377713877,53,Transport
+"Tank Car, Truck, and Ship Loaders",58.994438955488114,72.78310454842558,53,Transport
