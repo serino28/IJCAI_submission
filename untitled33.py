@@ -64,7 +64,7 @@ fig.update_layout(
         showgrid=True,
         gridcolor='lightgray',
         gridwidth=0.3,
-        itle_font=dict(size=18, color="black"),  # Cambiato colore titolo
+        title_font=dict(size=18, color="black"),  # Cambiato colore titolo
         tickfont=dict(size=16, color="black")
     ),
     yaxis=dict(
