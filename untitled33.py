@@ -21,17 +21,11 @@ st.set_page_config(page_title="IJCAI submission", layout="wide")
 # Load dataset from Google Drive
 @st.cache_data
 def load_data():
-    url = "https://drive.google.com/uc?id=ID_DEL_TUO_FILE"  # Sostituisci con l'ID del file su Google Drive
-    output = "dataset.csv"
-    gdown.download(url, output, quiet=False)
+    url = "https://raw.githubusercontent.com/serino28/IJCAI_submission/refs/heads/main/data_submission.csv"  # Sostituisci con il tuo link RAW
+    df = pd.read_csv(url, sep=",", encoding="utf-8-sig", on_bad_lines="skip")
+    st.success("Dataset caricato con successo!")
+    return df
 
-    try:
-        df = pd.read_csv(output, sep=",", encoding="utf-8-sig", on_bad_lines="skip")
-        st.success("Dataset caricato con successo!")
-        return df
-    except Exception as e:
-        st.error(f"Errore nel caricamento del dataset: {e}")
-        return None
 
 df = load_data()
 
